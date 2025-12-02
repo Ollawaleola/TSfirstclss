@@ -1,3 +1,3 @@
 # TSfirstclss
-ceating a plain CV
+Creating a plain CV and
 Testing my repo connection to my code editor
